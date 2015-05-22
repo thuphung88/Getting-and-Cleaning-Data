@@ -1,4 +1,3 @@
-setwd("C:/Users/Thu Mip/Desktop/UCI HAR Dataset")
 library(plyr)
 
 #1. Merge the training and the test sets to create one data set
